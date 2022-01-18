@@ -1,1 +1,4 @@
 changing file from VIM-learninf VIM
+some changes to try git pull
+this command is to commitchanges from
+remote to local repository
